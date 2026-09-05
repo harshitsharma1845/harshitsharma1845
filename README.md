@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋</h1>Yeh raha updated code jisme I am Harshit Sharma pehle se hi likha hua hai. Aap ise copy karke puraana content hata kar wahaan paste kar sakte hain:
-<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A1A&random=false&width=435&lines=I+am+Harshit+Sharma;" alt="Typing SVG" />
