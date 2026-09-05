@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A1A&random=false&width=435&lines=I+AM+HARSHIT SHARMA %3F;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A1A&random=false&width=435&lines=I+AM+HARSHITSHARMA %3F;" alt="Typing SVG" />
 </p>
 
 ```bash
